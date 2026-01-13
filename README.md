@@ -2,3 +2,4 @@
 
 
 Font được lấy từ apk của Google play Services
+Hiện tại, Google đã công khai font tại: https://fonts.google.com/specimen/Google+Sans+Flex
